@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mualin
 - 👀 I’m interested in JS, HTML and CSS
-- 🌱 I’m currently learning in GTML Academy
+- 🌱 I’m currently learning in HTML Academy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rubylearnreact@gmail.com
 
